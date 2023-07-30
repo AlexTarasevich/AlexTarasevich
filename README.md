@@ -1,8 +1,7 @@
-<h1 align="center">Hi there, I'm Alex</a> 
+# Hi, I'm Alex 👋🏼
+![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;Javd+Programmer;Web+designer;Tarantool+developer;...)  
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-
+I code bots and desktop apps on Python, test both apps and websites and make bug-reports.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
