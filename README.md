@@ -1,15 +1,15 @@
 # Hi, I'm Alex 👋🏼
-![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;Javd+Programmer;Web+designer;Tarantool+developer;...)  
+![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;Java+Programmer;Web+designer;Tarantool+developer)  
 
-I code bots and desktop apps on Python, test both apps and websites and make bug-reports.
-Here are some ideas to get you started:
+I code web page on Python and Java. I want to build my own app on Swift.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+
+## ⚒ Technologies:
+- Python: Django, PyTest;
+- Lua in Tarantool database;
+- Java: Core, Spring boot;
+
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
