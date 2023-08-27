@@ -11,7 +11,7 @@ Software developer passionate. I enjoy working with new technologies and collabo
 
 ## Languages
 
-<p align="left">
+ <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
 <!-- go -->
@@ -31,7 +31,6 @@ Software developer passionate. I enjoy working with new technologies and collabo
 
 <!-- css -->
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-
 
 </p>
 
