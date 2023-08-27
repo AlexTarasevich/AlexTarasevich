@@ -1,12 +1,5 @@
 # Hi, I'm Alex 👋🏼
-![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;Java+Programmer;Web+designer;Tarantool+developer)  
-
-
-
-## About Me
-
-Software developer passionate. I enjoy working with new technologies and collaborating with teams to solve complex problems. Experienced in full-stack web and mobile development. Always striving to expand my knowledge and keep up with the latest industry trends. Open to exciting opportunities and projects that challenge me to grow as a developer. Let's connect and build amazing things together!
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=GG+Wolfram&duration=2500&pause=700&color=3454D1&width=435&height=28&lines=Shortly+about+me%3A;Python+programmer;Lua+Programmer;Web+designer;Tarantool+developer)  
 
 
 ## Languages
@@ -29,7 +22,7 @@ Software developer passionate. I enjoy working with new technologies and collabo
 
 ## Frontend & Mobile
 
-<p align="left">          
+ <p align="left">          
 <!-- swift -->
 <a href="[https://flutter.dev](https://www.apple.com/ru/swift/)" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" /></a>
 <!-- tailwind -->
@@ -42,9 +35,8 @@ Software developer passionate. I enjoy working with new technologies and collabo
 
 ## Backend
 
-<p align="left">
+ <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-
 <!-- go -->
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <!-- rails -->
@@ -52,6 +44,7 @@ Software developer passionate. I enjoy working with new technologies and collabo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="36" height="36"/> </a>
 <!-- django -->
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Laravel" /></a>
+</p>
 
 ## Databases & Tools
 
