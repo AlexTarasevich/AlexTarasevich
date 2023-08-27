@@ -46,7 +46,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="36" height="36" alt="Laravel" /></a>
 </p>
 
-## Databases & Tools
+## Databases 
 
 <p align="left">
 <!-- mysql -->
